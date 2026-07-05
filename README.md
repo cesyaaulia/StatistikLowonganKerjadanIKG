@@ -27,6 +27,19 @@ The project focuses on extracting macro-economic and social indicators from the 
 
 ---
 
+## 📋 Project Documentation
+<div align="center">
+<img width="27%" alt="image" src="https://github.com/user-attachments/assets/5368b492-59a1-4ff6-84f6-1bf32582f539" />
+<img width="34%" alt="image" src="https://github.com/user-attachments/assets/f8ffadda-d352-4988-b05f-cbcf61f10b3c" />
+<img width="36%" alt="image" src="https://github.com/user-attachments/assets/67630691-e14e-4600-aa18-e854eb1ab345" />
+<img width="27%" alt="image" src="https://github.com/user-attachments/assets/2f118fe6-0e23-445e-9450-e8a4a745d3ef" />
+<img width="34%" alt="image" src="https://github.com/user-attachments/assets/9e995177-b1de-47c1-a1f2-6530f6b55c46" />
+<img width="35%" alt="image" src="https://github.com/user-attachments/assets/9ef953d4-a633-4714-bbc0-44c2ac7a170b" />
+
+</div>
+
+---
+
 ## 🎯 Analysis Objectives
 
 The primary goal of this study is to implement programmatic geographical mapping to uncover structural regional insights. The pipeline accomplishes:
@@ -55,8 +68,8 @@ The data processing pipeline and visualization engine are entirely engineered in
 ```text
 StatisticalDataVisualization/
 │
-├── 📄 StatisticalDataVisualization_Kelompok4.ipynb  # Core Jupyter Notebook detailing the entire data pipeline
-└── README.md                                          # Main repository documentation
+├── 📄 StatisticalDataVisualization_Kelompok4.ipynb  
+└── README.md                                         
 ```
 
 ## 📊 Visualizations & Insights
