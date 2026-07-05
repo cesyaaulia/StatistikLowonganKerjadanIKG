@@ -77,16 +77,16 @@ StatisticalDataVisualization/
 The data processing pipeline filters raw datasets through specific structural data cleaning operations, such as removing metadata noise, casting structural datatypes to numeric floats, dropping empty null fields, and filtering regional aggregates to prepare them for seamless analytical layers.
 
 ### 1. Gender Inequality Index (IKG) Analysis – West Java
-*   **Statistical Chart Insights:** The Seaborn horizontal bar chart dynamically sorts regional metrics from highest to lowest inequality[cite: 4]. Further conditional slicing isolates the top 10 highest IKG regions to highlight major structural gaps[cite: 4]. Through this visualization, **Cianjur** ($0.555$) and **Bogor** ($0.547$) are pinpointed as the regions with the highest gender developmental gaps[cite: 4]. Conversely, **Kota Cimahi** preserves the lowest gap ($0.166$) against a West Java regional average of $0.370$[cite: 4].
-*   **Interactive Heatmap Mapping:** Utilizing geographic coordinates embedded via `folium`, the map engine sets up dynamic rendering over a clean map layout[cite: 4]. Custom circular markers are bound with responsive hover tooltips and interactive popups to display quick contextual data upon user clicks[cite: 4].
+*   **Statistical Chart Insights:** The Seaborn horizontal bar chart dynamically sorts regional metrics from highest to lowest inequality. Further conditional slicing isolates the top 10 highest IKG regions to highlight major structural gaps. Through this visualization, **Cianjur** ($0.555$) and **Bogor** ($0.547$) are pinpointed as the regions with the highest gender developmental gaps. Conversely, **Kota Cimahi** preserves the lowest gap ($0.166$) against a West Java regional average of $0.370$.
+*   **Interactive Heatmap Mapping:** Utilizing geographic coordinates embedded via `folium`, the map engine sets up dynamic rendering over a clean map layout. Custom circular markers are bound with responsive hover tooltips and interactive popups to display quick contextual data upon user clicks.
 
 ### 2. Job Vacancy Distribution Analysis – East Java
-*   **Pipeline Infrastructure:** Cleans multi-tier header sheets into a structured dataframe containing isolated, cleanly cast columns for male, female, and overall job vacancy statistics[cite: 4].
-*   **Macro Distribution Mapping:** Generates sorted categorical comparisons showing absolute labor request variations across diverse industrial municipal hubs in East Java[cite: 4].
+*   **Pipeline Infrastructure:** Cleans multi-tier header sheets into a structured dataframe containing isolated, cleanly cast columns for male, female, and overall job vacancy statistics.
+*   **Macro Distribution Mapping:** Generates sorted categorical comparisons showing absolute labor request variations across diverse industrial municipal hubs in East Java.
 
 ---
 
 ## 🎓 Author
 
 **Cesya Aulia Ramadhani**  
-*Applied Science Undergraduate Student in **Management Informatics** — Universitas Negeri Surabaya*[cite: 4]
+*Applied Science Undergraduate Student in **Management Informatics** — Universitas Negeri Surabaya*
